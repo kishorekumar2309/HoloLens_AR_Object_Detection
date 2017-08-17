@@ -1,0 +1,4 @@
+C:\Users\native\Documents\App Design\App_ImageCreator\App Design\App Design.csproj;x86
+C:\Users\native\Documents\App Design\App_ImageCreator\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\native\Documents\App Design\App_ImageCreator\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\native\Documents\App Design\App_ImageCreator\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
